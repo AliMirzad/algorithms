@@ -1,4 +1,4 @@
-public class _9_DecimalToBinary {
+public class _10_Decimal2Binary {
     public static int decimal2Binary(int num) {
         int a;
         int b = 1;

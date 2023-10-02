@@ -3,7 +3,8 @@ public class Main {
 //        System.out.println(_6_AddDigit.addDigit(3214));
 //        System.out.println(_7_SymmetricSet.symmetricSet(new int[]{1, 2, 3, 4, 5, 4, 3, 3, 1}));
 //        System.out.println(_8_PrimeNumber.primeNumber(19));
-//            System.out.println(_9_DecimalToBinary.decimal2Binary(10));
+        System.out.println(_10_Decimal2Binary.decimal2Binary(10));
+        System.out.println(_11_Binary2Decimal.binary2decimal(11001));
 //        System.out.println(_8_PrimeNumber.primeNumber(19));
 //        _9_PrintSquare.printSquare(5);
     }
