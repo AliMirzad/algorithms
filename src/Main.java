@@ -7,6 +7,9 @@ public class Main {
 //        System.out.println(_11_Binary2Decimal.binary2decimal(11001));
 //        System.out.println(_8_PrimeNumber.primeNumber(19));
 //        _9_PrintSquare.printSquare(5);
-        System.out.println(_13_SingleRepeatElm.singleRepeatElm(new int[]{2, 2, 4, 1, 4, 6, 6, 7, 7}));
+//        System.out.println(_13_SingleRepeatElm.singleRepeatElm(new int[]{2, 2, 4, 1, 4, 6, 6, 7, 7}));
+        int[] arr = {5,6,3,1,8,12};
+        _15_HeapSort.sort(arr);
+        _15_HeapSort.printArray(arr);
     }
 }
