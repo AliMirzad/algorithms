@@ -7,7 +7,7 @@ public class _16_InsertionSort {
             int key = inpArr[i];
             int j = i - 1;
 
-			/* Move elements of inpArr[0..i-1], that are
+			/* Move elements of inpArr[0...i - 1], that are
 			greater than key, to one position ahead
 			of their current position */
             while (j >= 0 && inpArr[j] > key) {
