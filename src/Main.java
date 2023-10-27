@@ -13,7 +13,7 @@ public class Main {
 //        _15_HeapSort.printArray(arr);
 //        _16_InsertionSort.sort(arr);
 //        _16_InsertionSort.printArray(arr);
-//        int[] myArr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] myArr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
     }
 }
